@@ -11,12 +11,12 @@
     <string name="Q1">Who voices Jarvis, Iron Man\'s artificially intelligent assistant?</string>
     <string name="rg1b1">SIMON PEGG</string>
     <string name="rg1b2">EWAN MCGREGOR</string>
-    <string name="rg1b3">PAUL BETTANY c</string>
+    <string name="rg1b3">PAUL BETTANY</string>
     <string name="rg1b4">EDDIE REDMAYNE</string>
     //Q2
     <string name="Q2">What was Sam Wilson before he became Falcon?</string>
     <string name="rg2b1">A NAVY SEAL</string>
-    <string name="rg2b2">A PARARESCUE c</string>
+    <string name="rg2b2">A PARARESCUE</string>
     <string name="rg2b3">A PILOT</string>
     <string name="rg2b4">A PROFESSIONAL DAREDEVIL</string>
     //Q3
@@ -32,7 +32,7 @@
     <string name="cb1b7">Power Stone</string>
     //Q5
     <string name="Q5">Forged in the heart of a dying star, what is Thor\'s hammer\'s name?</string>
-    <string name="rg5b1">MJOLNIR c</string>
+    <string name="rg5b1">MJOLNIR</string>
     <string name="rg5b2">THUNDER BRINGER</string>
     <string name="rg5b3">FJORDIR</string>
     <string name="rg5b4">ANDURIL</string>
